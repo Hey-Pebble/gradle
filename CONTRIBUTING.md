@@ -1,6 +1,7 @@
 # Contributing to the Gradle Build Tool
 
 Thank you for your interest in contributing to Gradle!
+<!-- PEBBLE-848: Integration test edit marker -->
 This guide explains how to contribute to the core Gradle components, 
 extensions and documentation located in this repository.
 For other extensions and components, see the 
