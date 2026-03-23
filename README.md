@@ -1,3 +1,4 @@
+<!-- PEBBLE-848: Integration test marker - verifies shallow+blobless clone push workflow -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/gradle-white-primary.png" width="600px">
